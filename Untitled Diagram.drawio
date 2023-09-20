@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T12:54:27.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="h0jTGv5GoP0VxOpV3N-v" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T19:33:48.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="-VvJtbPZmUTBS8fHhpB3" version="21.7.5" type="github">
   <diagram name="Page-1" id="mQhQG7kZS0Xr7gWZN6w1">
     <mxGraphModel dx="1393" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JTXV-aAecL8uyqR56y0R-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JTXV-aAecL8uyqR56y0R-3" edge="1" target="JTXV-aAecL8uyqR56y0R-9">
+        <mxCell id="JTXV-aAecL8uyqR56y0R-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JTXV-aAecL8uyqR56y0R-3" target="JTXV-aAecL8uyqR56y0R-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="180" as="targetPoint" />
             <mxPoint x="480" y="70" as="sourcePoint" />
@@ -13,38 +13,62 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ER1Q0wbatCrZYCJX1xy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JTXV-aAecL8uyqR56y0R-3" target="JTXV-aAecL8uyqR56y0R-8">
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JTXV-aAecL8uyqR56y0R-3" target="JTXV-aAecL8uyqR56y0R-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqtNRe3wBoBwzQempDdu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTXV-aAecL8uyqR56y0R-3" target="pqtNRe3wBoBwzQempDdu-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTXV-aAecL8uyqR56y0R-3" value="Idejas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3ER1Q0wbatCrZYCJX1xy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTXV-aAecL8uyqR56y0R-8" target="3ER1Q0wbatCrZYCJX1xy-7">
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JTXV-aAecL8uyqR56y0R-8" target="3ER1Q0wbatCrZYCJX1xy-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTXV-aAecL8uyqR56y0R-8" value="Aktuālā informācija/Padomi ceļojot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3ER1Q0wbatCrZYCJX1xy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTXV-aAecL8uyqR56y0R-9" target="3ER1Q0wbatCrZYCJX1xy-2">
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JTXV-aAecL8uyqR56y0R-9" target="3ER1Q0wbatCrZYCJX1xy-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTXV-aAecL8uyqR56y0R-9" value="Testi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3ER1Q0wbatCrZYCJX1xy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3ER1Q0wbatCrZYCJX1xy-2" target="3ER1Q0wbatCrZYCJX1xy-5">
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3ER1Q0wbatCrZYCJX1xy-2" target="3ER1Q0wbatCrZYCJX1xy-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ER1Q0wbatCrZYCJX1xy-2" value="Pie testu sadaļas ir pietiekami ar jau esošajiem priekšmetiem, bet pie katra priekšmeta būtu lietderīgi uztaisīt tādu kā viktorīnu. Ar atšķirīgām tēmām un grūtības pakāpēm. Iespējams risinājums tam ir kahoot vai google forms, kas ir viktorīnu veidošanas mājaslapas, kas pēc tam ļauj redzēt rezultātus, kas dod lietotājam iespēju pārspēt savu iepriekšejo rezultātu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-2" value="Pie testu sadaļas ir pietiekami ar jau esošajiem priekšmetiem, bet pie katra priekšmeta būtu lietderīgi uztaisīt tādu kā viktorīnu. Ar atšķirīgām tēmām un grūtības pakāpēm. Iespējams risinājums tam ir kahoot vai google forms, kas ir viktorīnu veidošanas mājaslapas, kas pēc tam ļauj redzēt rezultātus, kas dod lietotājam iespēju pārspēt savu iepriekšejo rezultātu" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="300" width="120" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="3ER1Q0wbatCrZYCJX1xy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3ER1Q0wbatCrZYCJX1xy-2" target="3ER1Q0wbatCrZYCJX1xy-2">
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3ER1Q0wbatCrZYCJX1xy-2" target="3ER1Q0wbatCrZYCJX1xy-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ER1Q0wbatCrZYCJX1xy-5" value="Ja ideja par google forms vai Kahoot izmantošanu, testus var izveidot fiziski katrā sadaļā pie katra priekšmeta. Tas atļautu testiem atrasties tajā pašā mājaslapā, un lietotājiem nebūtu nepieciešams pamest sākotnējo mājaslapu. Šajā gadījumā jāizveido viktorīna, kurā ir daudz dažādu jautājumu, lai nerastos situācijas, kad lietotājs pirmo reizi izpildot ierauga visas atbildes, un pārkopē tās savā otrajā mēģinājumā." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="300" width="120" height="330" as="geometry" />
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-5" value="Ja ideja par google forms vai Kahoot izmantošanu, testus var izveidot fiziski katrā sadaļā pie katra priekšmeta. Tas atļautu testiem atrasties tajā pašā mājaslapā, un lietotājiem nebūtu nepieciešams pamest sākotnējo mājaslapu. Šajā gadījumā jāizveido viktorīna, kurā ir daudz dažādu jautājumu, lai nerastos situācijas, kad lietotājs pirmo reizi izpildot ierauga visas atbildes, un pārkopē tās savā otrajā mēģinājumā." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="300" width="120" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="3ER1Q0wbatCrZYCJX1xy-7" value="Pašreizējais stāvoklis lapai ir maksimāli trūkstošs - tajā nav atrodama nekāda informācija. Padomi ceļojumiem būtu salīdzinoši viegla informācija, kuru atrast. Iespējamais gala izskats būtu vairākas uz ekrāna sadalītas &quot;kastītes&quot; ar saviem jautājumiem. Piemēram, kastīte &quot;Vīzas&quot;, kurā norādītu savu pasi (piem. Latvijas pase) un galamērķi. Pēc šīs informācijas ievades, lietotājs piespiež pogu &quot;Pārbaudīt&quot; un mājaslapa paziņo lietotājam &quot;Tev vajag/nevajag vīzu ceļojot uz šo valsti. Tu to vari iegūt ... u.t.t." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="300" width="120" height="380" as="geometry" />
+        <mxCell id="pqtNRe3wBoBwzQempDdu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3ER1Q0wbatCrZYCJX1xy-7" target="pqtNRe3wBoBwzQempDdu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-7" value="Pašreizējais stāvoklis lapai ir maksimāli trūkstošs - tajā nav atrodama nekāda informācija. Padomi ceļojumiem būtu salīdzinoši viegla informācija, kuru atrast. Iespējamais gala izskats būtu vairākas uz ekrāna sadalītas &quot;kastītes&quot; ar saviem jautājumiem. Piemēram, kastīte &quot;Vīzas&quot;, kurā norādītu savu pasi (piem. Latvijas pase) un galamērķi. Pēc šīs informācijas ievades, lietotājs piespiež pogu &quot;Pārbaudīt&quot; un mājaslapa paziņo lietotājam &quot;Tev vajag/nevajag vīzu ceļojot uz šo valsti. Tu to vari iegūt ... u.t.t." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="300" width="120" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="pqtNRe3wBoBwzQempDdu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqtNRe3wBoBwzQempDdu-1" target="pqtNRe3wBoBwzQempDdu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqtNRe3wBoBwzQempDdu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqtNRe3wBoBwzQempDdu-1" target="pqtNRe3wBoBwzQempDdu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqtNRe3wBoBwzQempDdu-1" value="Papildus idejas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pqtNRe3wBoBwzQempDdu-3" value="Dažas idejas, kas noderētu mājaslapai:&#xa;1)    Dāvanu karšu sadaļa &#xa;2)    Interneta profilu sadaļa (facebook, instagram utt.)&#xa;3)    Ceļojumu katalogu&#xa;4)    Ceļojumu meklētāju, lai nav jātin cauri visam klāstam&#xa;5)    Ceļojuma filtrus (siltās zemes, 7/14 dienu ceļojums utt.)&#xa;6)    Iespējamu foto konkursu (ceļotāji iesūta savas labākās bildes un top 3 dabū kādu mini balvu, piemēram, krūzīti vai kreklu." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="120" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="pqtNRe3wBoBwzQempDdu-5" value="1. Reģistrējot kontu netiek nosūtīts pārbaudes e pasts, kas ļaujtu verificēt e-pasta piederību lietotājam.&#xa;2. Būtu noderīgi izveidod klientu servisa kontakta info sadaļu, kā arī vietu kur lietotājam ir iespējams apskatīt sīkfailu un citu datu iestatijumus lapas apakšpusē. Derētu arī izveidot sadaļu kura uzskaitīti kādi citi saistīti projekti.&#xa;3. Varētu izveidot kādu punktu kur iespējams pieteikties/atteikties ziņu(piedāvājumi, brīdinājumi, izmaiņas) vēstnesim.&#xa;4. Vajag lodziņu kur iespējams nomainīt mājaslapas valodu." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="120" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="pqtNRe3wBoBwzQempDdu-8" value="1) Varētu informacijas sadaļā vēl vienu lapu ievietot kurā tiek pastāstīts par Vīzām, Pilnvarām utt. Manuprāt šim vajag atsevišķu sekciju informācijas nozīmes dēļ. &#xa;&#xa;&#xa;2) Manuprāt uztaisīt lapu “Atsauksmes” būtu noderīgi, lai klientiem vieglāk pieņemt lēmumu. &#xa;&#xa;&#xa;3) Lapa par pagātnes notikumiem un ceļojumiem ar informāciju, attēliem, video utt.&#xa;&#xa;&#xa;4) Aktuālās ziņas par ceļojumiem varētu ievietot galvenajā lapā, lai tās būtu viegli pamanāmas.&#xa;&#xa;&#xa;5) Darbinieku sadaļa vai lapa ar informāciju par viņiem un viņu CV." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="730" width="250" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
