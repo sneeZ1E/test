@@ -1,31 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T12:32:10.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XfL_wTw1TfBTfSfJN3QC" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T12:53:16.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="jNHMs7HNTzlYGy6Fug0X" version="21.7.5" type="github">
   <diagram name="Page-1" id="mQhQG7kZS0Xr7gWZN6w1">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1393" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JTXV-aAecL8uyqR56y0R-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTXV-aAecL8uyqR56y0R-3">
+        <mxCell id="JTXV-aAecL8uyqR56y0R-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JTXV-aAecL8uyqR56y0R-3" edge="1" target="JTXV-aAecL8uyqR56y0R-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JTXV-aAecL8uyqR56y0R-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTXV-aAecL8uyqR56y0R-3" target="JTXV-aAecL8uyqR56y0R-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="180" as="targetPoint" />
+            <mxPoint x="160" y="180" as="targetPoint" />
+            <mxPoint x="480" y="70" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="130" y="150" />
-              <mxPoint x="251" y="150" />
+              <mxPoint x="171" y="70" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JTXV-aAecL8uyqR56y0R-3" value="Idejas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JTXV-aAecL8uyqR56y0R-3" target="JTXV-aAecL8uyqR56y0R-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTXV-aAecL8uyqR56y0R-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="JTXV-aAecL8uyqR56y0R-3" value="Idejas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTXV-aAecL8uyqR56y0R-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTXV-aAecL8uyqR56y0R-8" target="3ER1Q0wbatCrZYCJX1xy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTXV-aAecL8uyqR56y0R-8" value="Aktuālā informācija/Padomi ceļojot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTXV-aAecL8uyqR56y0R-9" target="3ER1Q0wbatCrZYCJX1xy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTXV-aAecL8uyqR56y0R-9" value="Testi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3ER1Q0wbatCrZYCJX1xy-2" target="3ER1Q0wbatCrZYCJX1xy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-2" value="Pie testu sadaļas ir pietiekami ar jau esošajiem priekšmetiem, bet pie katra priekšmeta būtu lietderīgi uztaisīt tādu kā viktorīnu. Ar atšķirīgām tēmām un grūtības pakāpēm. Iespējams risinājums tam ir kahoot vai google forms, kas ir viktorīnu veidošanas mājaslapas, kas pēc tam ļauj redzēt rezultātus, kas dod lietotājam iespēju pārspēt savu iepriekšejo rezultātu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3ER1Q0wbatCrZYCJX1xy-2" target="3ER1Q0wbatCrZYCJX1xy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-5" value="Ja ideja par google forms vai Kahoot izmantošanu, testus var izveidot fiziski katrā sadaļā pie katra priekšmeta. Tas atļautu testiem atrasties tajā pašā mājaslapā, un lietotājiem nebūtu nepieciešams pamest sākotnējo mājaslapu. Šajā gadījumā jāizveido viktorīna, kurā ir daudz dažādu jautājumu, lai nerastos situācijas, kad lietotājs pirmo reizi izpildot ierauga visas atbildes, un pārkopē tās savā otrajā mēģinājumā." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="120" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="3ER1Q0wbatCrZYCJX1xy-7" value="Pašreizējais stāvoklis lapai ir maksimāli trūkstošs - tajā nav atrodama nekāda informācija. Padomi ceļojumiem būtu salīdzinoši viegla informācija, kuru atrast. Iespējamais gala izskats būtu vairākas uz ekrāna sadalītas &quot;kastītes&quot; ar saviem jautājumiem. Piemēram, kastīte &quot;Vīzas&quot;, kurā norādītu savu pasi (piem. Latvijas pase) un galamērķi. Pēc šīs informācijas ievades, lietotājs piespiež pogu &quot;Pārbaudīt&quot; un mājaslapa paziņo lietotājam &quot;Tev vajag/nevajag vīzu ceļojot uz šo valsti. Tu to vari iegūt ... u.t.t." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="120" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
